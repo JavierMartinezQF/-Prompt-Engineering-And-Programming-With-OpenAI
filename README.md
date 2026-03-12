@@ -3,7 +3,7 @@
 ![Columbia University](https://img.shields.io/badge/University-Columbia-blue)
 ![Course](https://img.shields.io/badge/Course-Generative%20AI-orange)
 
-Welcome to my repository for the **Prompt Engineering & Programming With OpenAI** course. This space contains all the assignments, notebooks, and materials designed to provide hands-on experience with generative AI technologies.
+Welcome to my repository for the **Prompt Engineering & Programming With OpenAI** by **Columbia University** course. This space contains all the assignments, notebooks, and materials designed to provide hands-on experience with generative AI technologies.
 
 ## 📂 Contents
 
