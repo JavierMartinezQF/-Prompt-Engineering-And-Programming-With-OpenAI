@@ -1,6 +1,8 @@
-## Prompt Engineering & Programming With OpenAI 🤖 program by Columbia University +
+# Prompt Engineering & Programming With OpenAI 🤖 program by Columbia University +
 
-# This repository is part of the Generative AI for Technical Professionals curriculum.
+## This repository is part of the Generative AI for Technical Professionals curriculum.
+
+👉 **[Prompt Engineering & Programming with OpenAI | Columbia Plus](https://plus.columbia.edu/content/prompt-engineering-programming-openai)**
 
 ![Columbia University](https://img.shields.io/badge/Columbia%20University-B9D9EB?style=for-the-badge&logo=columbia-university&logoColor=003366)
 
@@ -40,7 +42,7 @@ If you prefer working locally, ensure you have **Python 3.x** installed and run 
 pip install -r requirements.txt
 
 
-### 🎓 Course Information
-Interested in this program? This repository is part of the Generative AI for Technical Professionals curriculum.
+## 🎓 Course Information
 
-Learn more and enroll here: Course Enrollment
+If you found this repository and are interested in enrolling, you can find the official program details here:  
+👉 **[Prompt Engineering & Programming with OpenAI | Columbia Plus](https://plus.columbia.edu/content/prompt-engineering-programming-openai)**
