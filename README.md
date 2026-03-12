@@ -1,5 +1,5 @@
-# Prompt Engineering & Programming With OpenAI 🤖
-
+# Prompt Engineering & Programming With OpenAI 🤖 program by Columbia University +
+![Columbia University](https://img.shields.io/badge/Columbia%20University-B9D9EB?style=for-the-badge&logo=columbia-university&logoColor=003366)
 ![Columbia University](https://img.shields.io/badge/University-Columbia-blue)
 ![Course](https://img.shields.io/badge/Course-Generative%20AI-orange)
 
